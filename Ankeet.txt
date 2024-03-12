@@ -1,0 +1,5 @@
+﻿Esimene nädala päev?:Esmaspäev
+Viimane aasta kuu?:Detsember
+Kus on sinu nimi on?Aleksander
+Sa sööd puuvilju?Jah
+Mida sa sööd?Puuvilju
